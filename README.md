@@ -1,3 +1,9 @@
+# Huffman File Zipper
+
+A Java-based **lossless file compression and decompression tool** that uses **Huffman Coding** and **LZ77** algorithms. The project also provides a simple Java Swing GUI with multiple compression modes and automatic method selection.
+
+---
+
 ## 📸 Preview
 
 ### Application Interface
@@ -7,12 +13,6 @@
 ### Compression Completed
 
 ![Compression Result](screenshots/completed_compression.png)
-
-# Huffman File Zipper
-
-A Java-based **lossless file compression and decompression tool** that uses **Huffman Coding** and **LZ77** algorithms. The project also provides a simple Java Swing GUI with multiple compression modes and automatic method selection.
-
----
 
 ## 🚀 Features
 
